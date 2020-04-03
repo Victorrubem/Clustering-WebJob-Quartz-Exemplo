@@ -1,0 +1,17 @@
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\bin\Debug\netcoreapp2.2\quartz.config
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\bin\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.deps.json
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\bin\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.runtimeconfig.json
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\bin\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.runtimeconfig.dev.json
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\bin\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.dll
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\obj\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.csprojAssemblyReference.cache
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\obj\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.RazorAssemblyInfo.cache
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\obj\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.RazorAssemblyInfo.cs
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\obj\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.AssemblyInfoInputs.cache
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\obj\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.AssemblyInfo.cs
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\obj\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.RazorTargetAssemblyInfo.cache
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\bin\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.pdb
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\obj\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.dll
+C:\Users\victor.rubem\source\repos\WebJob-Quartz-Clustering\WebJob-Quartz-Clustering\obj\Debug\netcoreapp2.2\WebJob-Quartz-Clustering.pdb

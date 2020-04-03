@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJob-Quartz-Clustering", "WebJob-Quartz-Clustering\WebJob-Quartz-Clustering.csproj", "{0C0891D2-4438-44F1-BE32-B028B697EF83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0891D2-4438-44F1-BE32-B028B697EF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0891D2-4438-44F1-BE32-B028B697EF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0891D2-4438-44F1-BE32-B028B697EF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0891D2-4438-44F1-BE32-B028B697EF83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21DF6FFE-A100-456F-8612-8874D1BAEC0C}
+	EndGlobalSection
+EndGlobal
