@@ -44,7 +44,9 @@ namespace WebJob_Quartz_Clustering
          */
         public async void StartScheduler()
         {
-            ISchedulerFactory factory = new StdSchedulerFactory();
+            //ISchedulerFactory factory = new StdSchedulerFactory();
+
+            ISchedulerFactory factory = new StdSchedulerFactory(QuartzConfiguration.LocalConfig());
 
             IScheduler scheduler = await factory.GetScheduler();
 

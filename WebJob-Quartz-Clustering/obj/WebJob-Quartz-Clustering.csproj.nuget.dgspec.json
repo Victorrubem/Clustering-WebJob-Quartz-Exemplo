@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.rubem\\source\\repos\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering.csproj": {}
+    "C:\\Projetos\\CURSOS\\.Net\\WebJob\\Clustering-WebJob-Quartz-Exemplo\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.rubem\\source\\repos\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering.csproj": {
+    "C:\\Projetos\\CURSOS\\.Net\\WebJob\\Clustering-WebJob-Quartz-Exemplo\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.rubem\\source\\repos\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering.csproj",
+        "projectUniqueName": "C:\\Projetos\\CURSOS\\.Net\\WebJob\\Clustering-WebJob-Quartz-Exemplo\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering.csproj",
         "projectName": "WebJob-Quartz-Clustering",
-        "projectPath": "C:\\Users\\victor.rubem\\source\\repos\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering.csproj",
+        "projectPath": "C:\\Projetos\\CURSOS\\.Net\\WebJob\\Clustering-WebJob-Quartz-Exemplo\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering.csproj",
         "packagesPath": "C:\\Users\\victor.rubem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.rubem\\source\\repos\\WebJob-Quartz-Clustering\\WebJob-Quartz-Clustering\\obj\\",
+        "outputPath": "C:\\Projetos\\CURSOS\\.Net\\WebJob\\Clustering-WebJob-Quartz-Exemplo\\WebJob-Quartz-Clustering\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
